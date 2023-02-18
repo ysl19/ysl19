@@ -47,4 +47,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysl19&theme=idk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysl19&repo=lookup-stock" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysl19&repo=kkumacakesv2" />
+  </div>
