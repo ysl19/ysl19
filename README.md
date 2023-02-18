@@ -51,5 +51,5 @@
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysl19&theme=idk" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysl19&repo=lookup-stock" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysl19&repo=kkumacakesv2" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysl19&repo=portfolio" />
   </div>
